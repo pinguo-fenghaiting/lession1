@@ -27,12 +27,14 @@ lihai at 4
 liuhongwei +2 at 19:45
 contributor -- shenqiang
 contributor -- yangbing
+liuhongwei at 21:31
 lihai 33l...
 liuhongwei add a line for testing 
 lihai l....
 zhangjin	+1
 liuhongwei add a text on "pinguo/lession1" at 20:37
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
+liuhongwei add another text on "pinguo/lession1" at 21:33 
 shenqiang -- contribut to yangbing
 lihai at 11
 liuhongwei resolved conflicts at 20:26
@@ -45,9 +47,15 @@ majianguang 2052
 majianguang 2107
 hehailin +1024
 add new line 1111
+liaofeng 
 fenghaiting 2013/11/18
 fenghaiting 21:03
 hehailin 21:15
 liuhongwei +4
 add by tanglei 21:10 add by tanglei 21:11 
 majianguang 2125
+add hehailin 21:21 hahhah
+add liaofeng 21:26
+add liaofeng 21:33
+add liaofeng 21:26 I change it 21:34
+add liaofeng 21:40
