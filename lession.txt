@@ -1,4 +1,4 @@
-﻿inited at 1
+inited at 1
 majianguang  123456
 majianguang aabbccdd
 majianguang aabbccdd
@@ -39,7 +39,8 @@ liuhongwei resolved conflicts at 20:26
 yangbing at 12
 zhangzhi at 13
 zhangzhi at 14
-zhangzhi at 178 by tanglei  dsgasdgdsagasd
+zhangzhi at 178 by tanglei  fuck
+zhangzhi at 178 by tanglei resolve the conflict
 
 
 add by tanglei 21:02
